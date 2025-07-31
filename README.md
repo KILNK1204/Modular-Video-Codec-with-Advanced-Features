@@ -2,6 +2,10 @@
 
 Decoder and encoder that support motion estimation, transform coding, multiple reference frames, variable block sizes, and advanced rate control mechanisms.
 
+## Results
+
+![Resulting Img](src/output/Screenshot%202025-07-31%20140714.png)
+
 ## Features
 
 ### Core Encoding/Decoding Pipeline
